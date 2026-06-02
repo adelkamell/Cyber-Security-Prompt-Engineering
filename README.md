@@ -17,3 +17,9 @@ A complete, hands-on guide to prompt engineering in cybersecurity. It teaches wh
 - **Get a golden prompt template**: A ready-to-use template for pentests, bug bounties, and educational simulations.
 
 > All content follows legal boundaries, professional ethics, and white-hat contracts.
+
+## 👨‍💻 Author
+- Adel Kamel
+
+- ## ⭐ Show Your Support
+- If you found this project helpful, please give it a ⭐ on GitHub!
