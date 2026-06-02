@@ -124,4 +124,3 @@ A prompt like this will get a complete technical answer from almost all modern m
 - **Local models** offer more freedom and are a good option for sensitive scenarios where public APIs might refuse.
 - **Always remain ethical.** These shortcuts are meant to help you fulfill your legal contractual work, not to cause harm. One ethical mistake can ruin your entire career.
 
-If you have a real-world security challenge that keeps getting a refusal from the model, tell me exactly what it is, and I'll craft a custom prompt for it.
