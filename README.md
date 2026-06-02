@@ -23,7 +23,7 @@ A complete, hands-on guide to prompt engineering in cybersecurity. It teaches wh
 - Adel Kamel
 
 - GitHub : @adelkamell
-- Email : adelkamel.business@gmail.com
+
 
 
 ## ⭐ Show Your Support
